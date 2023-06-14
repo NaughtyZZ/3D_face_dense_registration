@@ -20,7 +20,7 @@ An executable demo of registration process is achieved by running the code:
 .\VC++\demo\faceDenseRegistration.exe .\plyInput\ .\plyOutput\ 
 ```
 ### Matlab Version
-We also provide a **simple** and **stand-alone** implementation with **matlab** for a fast understanding of the methods in this paper. The code is tested to be compatible with matlab version after matlab2016b.
+We also provide a **simple** and **stand-alone** implementation with **matlab** for a fast understanding of the methods in this paper. The code is tested to be compatible with matlab versions after **matlab2016b**.
 Note that the matlab version is less efficient than the original version.
 
 An example of registration process is achieved by running the code:
