@@ -1,0 +1,1 @@
+faceDenseRegistration.exe .\plyInput\ .\plyOutput\ 
