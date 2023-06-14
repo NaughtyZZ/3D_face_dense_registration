@@ -36,7 +36,7 @@ It generally leads to coherent local deformations with elegant grid architecture
 
 <img src="figures\mesh_detailed_structure.png" alt="grid_structures" style="zoom: 67%;" />
 
-We suggest that it can be applied to other data that are not limited to faces.
+We suggest that it can also be applied to other data that are not limited to faces.
 
 <img src="figures\hand_example.png" alt="hand_example" style="zoom: 67%;" />
 
