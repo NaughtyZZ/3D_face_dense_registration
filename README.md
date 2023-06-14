@@ -4,7 +4,7 @@ by Zhenfeng Fan, Silong Penng, and Shihong Xia
 
 ## Introduction
 
-This repository is built for the official implementation of the paper "Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method  **(IJCV)** ".
+This repository is built for the official implementation of the paper "Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method" published at *International Journal of Computer Vision* in June, 2023.
 To view the full version of this paper, please visit the website [https://rdcu.be/ddHfp](https://rdcu.be/ddHfp), which provides the online version.
 
 ## Abstract
