@@ -28,7 +28,7 @@ An executable demo of registration process is achieved by running the code:
 ```
 A challenging example with **large expressions** and **partial data** is shown as follows: 
 
-<img src="figures\Registration_example.png" alt="registration_example" style="zoom: 50%;" />
+<img src="figures\Registration_example.png" alt="registration_example" style="zoom: 50%" />
 
 
 #### Dependencies for C++ Versions
