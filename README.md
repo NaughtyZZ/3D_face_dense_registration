@@ -13,18 +13,24 @@ Dense vertex-to-vertex correspondence (i.e. registration) between 3D faces is a 
 ## Usage
 
 ### C++ Single-and-Multiple-Resolution Version with initializations by the NICP Method
-We provide the original verison with **C/C++** code, which was compiled with **Visual Studio 2015** in our experiments. I suggest that these codes can be compiled with the newest C/C++ environments.
+We provide the original verison with **C/C++** code, which was compiled with **Visual Studio 2015** in our experiments. These codes cover the implementations of the proposed method in both its single-resolution and MR versions. The input targets are initialized by the NICP method (Amberg et al. 2007). I suggest that these codes can be compiled with the newest C/C++ environments.
 
 An executable demo of registration process is achieved by running the code:
 ```
 .\VC++(with initializations by NICP)\demo\faceDenseRegistration.exe .\plyInput\ .\plyOutput\ 
 ```
 ### C++ Single Resolution Version from Scratch
+We provide the original **C/C++** codes which cover the implementations of the proposed method in its single-resolution version **from scratch**. The inputs are the template and the raw scanning target data. I suggest that these codes can be compiled with the newest C/C++ environments.
 
 An executable demo of registration process is achieved by running the code:
 ```
 .\VC++(from scrach)\demo\faceDenseRegistration.exe
 ```
+A challenging example with **large expressions** and **partial data** is shown as follows: 
+
+<img src="figures\Registration_example.png" alt="registration_example" style="zoom: 50%;" />
+
+
 #### Dependencies for C++ Versions
 
 
