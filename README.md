@@ -25,7 +25,7 @@ An executable demo of registration process is achieved by running the code:
 ```
 .\VC++(from scrach)\demo\faceDenseRegistration.exe
 ```
-####Dependencies for C++ Versions
+#### Dependencies for C++ Versions
 
 
 [the Intel Math Kernal Library](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-math-kernel-library-intel-mkl-compiling-and-linking-with-microsoft-visual-cc.html)
