@@ -1,6 +1,6 @@
 # Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method (IJCV2023)
 
-by Zhenfeng Fan, Silong Penng, and Shihong Xia
+by Zhenfeng Fan, Silong Peng, and Shihong Xia
 
 ## Introduction
 
