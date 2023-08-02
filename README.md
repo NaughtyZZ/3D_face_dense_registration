@@ -24,7 +24,7 @@ We provide the original **C/C++** codes which cover the implementations of the p
 
 An executable demo of registration process is achieved by running the code:
 ```
-.\VC++(from scrach)\demo\faceDenseRegistration.exe
+.\VC++(from scratch)\demo\faceDenseRegistration.exe
 ```
 A challenging example with **large expressions** and **partial data** is shown as follows: 
 
