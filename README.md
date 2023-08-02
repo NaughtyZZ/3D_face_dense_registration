@@ -33,6 +33,7 @@ A challenging example with **large expressions** and **partial data** is shown a
 
 #### Dependencies for C++ Versions
 
+[the libigl Library](https://libigl.github.io/)
 
 [the Intel Math Kernal Library](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-math-kernel-library-intel-mkl-compiling-and-linking-with-microsoft-visual-cc.html)
 
