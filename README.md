@@ -15,11 +15,10 @@ Dense vertex-to-vertex correspondence (i.e. registration) between 3D faces is a 
 
 2）The landmarks of the deformed template and the target are matched **exactly**. 
 
-3）The surface of the deformed template and the target are also adhered **tightly** to any desired extent.
+3）The surface of the deformed template and the target are also adhered to each other **tightly** to any desired extent.
 
-4）The implementation of the alogithm is **robust to partial target data**.
+4）The implementation of the alogithm is  **very fast** and **robust to partial target data**.
 
-5）The implementation is **very fast**.
 
 ## Usage
 
