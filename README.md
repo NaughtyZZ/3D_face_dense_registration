@@ -17,7 +17,7 @@ Dense vertex-to-vertex correspondence (i.e. registration) between 3D faces is a 
 
 3）The surface of the deformed template and the target are also adhered to each other **tightly** to any desired extent.
 
-4）The implementation of the alogithm is  **very fast** and **robust to partial target data**.
+4）The implementation of the algorithm is  **very fast** and **robust to partial target data**.
 
 
 ## Usage
