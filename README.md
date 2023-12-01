@@ -11,13 +11,13 @@ To view the full version of this paper, please visit the website [https://doi.or
 Dense vertex-to-vertex correspondence (i.e. registration) between 3D faces is a fundamental and challenging issue for 3D &2D face analysis. While the sparse landmarks are definite with anatomically ground-truth correspondence, the dense vertex correspondences on most facial regions are unknown. In this view, the current methods commonly result in reasonable but diverse solutions, which deviate from the optimum to the dense registration problem. In this paper, we revisit dense registration by a dimension-degraded problem, i.e. proportional segmentation of a line, and employ an iterative dividing and diffusing method to reach an optimum solution that is robust to different initializations. We formulate a local registration problem for dividing and a linear least-square problem for diffusing, with constraints on fixed features on a 3D facial surface. We further propose a multi-resolution algorithm to accelerate the computational process. The proposed method is linked to a novel local scaling metric, where we illustrate the physical significance as smooth adaptions for local cells of 3D facial shapes. Extensive experiments on public datasets demonstrate the effectiveness of the proposed method in various aspects. Generally, the proposed method leads to not only significantly better representations of 3D facial data, but also coherent local deformations with elegant grid architecture for fine-grained registrations.
 
 ### Some significant advantages over the existing methods are: 
-1）The gridded cells of the registered target are distributed **as uniformly as possible** referring to a certain template.
+1）The gridded cells of the registered target are divided **as similarly as possible** referring to a certain template.
 
 2）The landmarks of the deformed template and the target are matched **exactly**. 
 
 3）The surfaces of the deformed template and the target are also adhered to each other **tightly** to any desired extent.
 
-4）The implementation of the algorithm is  **very fast** and **robust to partial target data**.
+4）The implementation of the algorithm is  **very fast**, and **robust to large expressions and partial target data**.
 
 
 ## Usage
